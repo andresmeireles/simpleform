@@ -1,5 +1,5 @@
 {
-    "name": "asm/simpleform",
+    "name": "andresmei/simpleform",
     "type": "library",
     "description": "Pacote para criação de formularios",
     "keywords": [
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Asm\\": "src"
+            "Andresmei\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Asm\\Test": "tests"
+            "Andresmei\\Test": "tests"
         }
     },
     "extra": {
