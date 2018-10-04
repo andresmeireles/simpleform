@@ -1,0 +1,22 @@
+{
+    "name": "andresmeireles/simpleform",
+    "description": "Pacote simples para criação de formularios",
+    "type": "library",
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Meireles",
+            "email": "andre2meireles@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Andresmeireles\\": "src/"
+        }
+    }
+}
